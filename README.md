@@ -1,4 +1,4 @@
-# The Official Mitali Shop Spring Boot Backend!
+# The Official MitaliShop Spring Boot Backend!
 # Important Links: 📣📢📣📢📣📢✈✈✈
 **Front End ( Client Side Sites ) :**
 --
